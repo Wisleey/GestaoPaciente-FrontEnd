@@ -1,0 +1,32 @@
+{
+    "pacientes": [
+      {
+        "id": 1,
+        "nome": "Wisley Rodrigues",
+        "telefone": "(83) 991812589",
+        "sexo": "Masculino",
+        "cpf": "701.346.141-51",
+        "rg": "12.345.678-9",
+        "planoSaude": "Unimed"
+      },
+      {
+        "id": 2,
+        "nome": "Gabriela",
+        "telefone": "(83) 991817070",
+        "sexo": "Feminino",
+        "cpf": "987.654.321-00",
+        "rg": "98.765.432-1",
+        "planoSaude": null
+      },
+      {
+        "id": 3,
+        "nome": "Kelson",
+        "telefone": "(83) 991817070",
+        "sexo": "Masculino",
+        "cpf": "987.654.321-00",
+        "rg": "98.765.432-1",
+        "planoSaude": null
+      }
+    ]
+  }
+  
